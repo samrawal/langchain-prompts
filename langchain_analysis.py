@@ -28,11 +28,11 @@ def search_file(file_path):
 
 if __name__ == "__main__":
     print("# About")
-    print("- This is a collection of all variable assignments and their location in the LangChain codebase, where the variable name contains 'prompt'.")
+    print("- This is a collection of all variable assignments and their location in the [LangChain codebase](https://github.com/hwchase17/langchain), where the variable name contains 'prompt'.")
     print("- Only global variables are considered.")
     print("- See `langchain_analysis.py` for more information.")
     print("- This was a quick analysis script thrown together with ChatGPT -- feel free to reach out if I'm missing anything.")
-    print("\n===\n")
+    print("\n---\n")
     
     print("# LangChain Prompts")
     directory = "/tmp/langchain"

@@ -1,10 +1,10 @@
 # About
-- This is a collection of all variable assignments and their location in the LangChain codebase, where the variable name contains 'prompt'.
+- This is a collection of all variable assignments and their location in the [LangChain codebase](https://github.com/hwchase17/langchain), where the variable name contains 'prompt'.
 - Only global variables are considered.
 - See `langchain_analysis.py` for more information.
 - This was a quick analysis script thrown together with ChatGPT -- feel free to reach out if I'm missing anything.
 
-===
+---
 
 # LangChain Prompts
 ## prompt_template (chain_filter_prompt.py)
